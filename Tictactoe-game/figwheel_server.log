@@ -1,0 +1,1680 @@
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.466 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.382 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.324 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: First argument to defn must be a symbol at line 12 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 12, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/hello-world at line 15 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.381 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/hello-world at line 15 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.441 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.354 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 16, column 18
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 16, column 25
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.339 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 16, column 14
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 17, column 13
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 18, column 14
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var cljs.core/defn at line 7 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 8 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 8, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.322 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (0) passed to cljs.core/vec at line 9 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.299 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (0) passed to tictactoe.core/new-board at line 10 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.198 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 16, column 29
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (0) passed to tictactoe.core/new-board at line 16 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.393 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.385 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.4 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.332 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.367 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.277 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.354 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.294 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.356 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 45, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.093 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 58
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 47, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 46, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.097 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core/into at line 17 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 21, column 6
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 21, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 39, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 39, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 37, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 37, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.092 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 23, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 23, column 17
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 23, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 39, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 25, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 39, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 40, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 26, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 40, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 27, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 41, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 41, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 42, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 43, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 38 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 42, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 24
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 28 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 28, column 23
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.311 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.352 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.452 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.318 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.433 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (0) passed to cljs.core/swap! at line 30 src/tictactoe/core.cljs
+WARNING: Wrong number of args (0) passed to cljs.core/swap! at line 30 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 4
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core/into at line 17 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.448 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.112 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.093 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.094 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 74
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 31, column 70
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Too many arguments to if at line 26 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 26, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Too many arguments to if at line 26 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 26, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Too many arguments to if at line 26 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 26, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.123 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.111 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (5) passed to: core/for at line 22 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 31 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 31 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 34 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 35 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 37 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 37 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 38 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 38 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 43, column 2
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.373 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 31 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 31 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 34 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 35 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 37 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 37 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 38 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 38 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 41, column 6
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.363 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 10
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 10
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 17 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 27 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.303 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 22 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 2
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 22 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 2
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 22 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 28, column 2
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 22 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.416 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 19 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 22 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 25 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.387 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 20 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 20 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 24 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 16 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 16, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/j at line 20 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 20 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 23 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 24 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 26 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/i at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/j at line 27 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 44 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.473 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 63, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 63, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 61, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.123 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 61, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 61, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 62, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 62, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 63, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 63, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.094 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 48, column 8
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.097 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 48, column 11
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 48 and column 6 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 64, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 65, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 12
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 66, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 50, column 12
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 66, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 66, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 67, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 67, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.099 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.391 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.359 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.384 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.291 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 14
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 20
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 49, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 53, column 6
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 70, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 53, column 17
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 53, column 23
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 70, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 53, column 29
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 53, column 36
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 70, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 70, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 71, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 71, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 17
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 19
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 71, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 29
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 35
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 35
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: EOF while reading, starting at line 52 and column 3 on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 71, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 54, column 38
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.359 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.354 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 41 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/circle at line 42 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/cross at line 43 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.324 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.322 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/stroke at line 32 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 47 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 56 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 9
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 17
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.099 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 28
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 32, column 27
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 13
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 20
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 24
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 33, column 23
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 10
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.114 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 34, column 25
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Invalid token: : on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 9
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 35, column 20
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 18
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 28
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 28
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 31
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 36
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 38
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 37
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 41
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 43
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 48
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 49
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 51
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.111 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 36, column 52
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.114 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/soumyasreekumar/Documents/workspace/workspace_clojure/tictactoe/src/tictactoe/core.cljs, line 38, column 16
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 62 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 63 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.314 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 63 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 64 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 65 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 68 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 69 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 59 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 59, column 4
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 59 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 59, column 4
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+[31mCompiling "resources/public/js/compiled/tictactoe.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 59 src/tictactoe/core.cljs on file src/tictactoe/core.cljs, line 59, column 4
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 69 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (0) passed to cljs.core/swap! at line 60 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (0) passed to cljs.core/swap! at line 60 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 60 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (0) passed to tictactoe.core/new-board at line 60 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 70 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Wrong number of args (0) passed to tictactoe.core/new-board at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 71 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.358 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 71 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board-size at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 71 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board-size at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 72 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board-size at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 72 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board-size at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 72 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/black at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/board-size at line 61 src/tictactoe/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 72 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.277 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+WARNING: Use of undeclared Var tictactoe.core/deftest at line 30 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/computer-move-test at line 30 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 31 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 33 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/deftest at line 50 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/win?-test at line 50 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 51 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 52 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 53 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/deftest at line 59 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/full?-test at line 59 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 60 src/tictactoe/core.cljs
+WARNING: Use of undeclared Var tictactoe.core/is at line 61 src/tictactoe/core.cljs
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.593 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.861 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.585 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.544 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.289 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.45 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.45 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.422 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.39 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.417 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.408 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.499 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.478 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.448 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.441 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.479 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.441 seconds.[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...
+notifying browser that file changed:  out/tictactoe/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.441 seconds.[0m
